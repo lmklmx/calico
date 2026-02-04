@@ -1,1 +1,1 @@
-FROM quay.io/tigera/operator:v1.32.7
+FROM docker.io/calico/node:v3.27.3
